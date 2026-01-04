@@ -2,7 +2,7 @@
 
 **Team Lead | Backend Engineering Specialist | Cloud Architecture Expert**
 
-📍 Mumbai, India | 📧 ghanshyamsharma4928@gmail.com 
+📍 Mumbai, India | 📧 ghanshyamsharma4928@gmail.com
 
 ## 💫 About Me
 
@@ -23,41 +23,7 @@ Engineering leader with **9+ years of experience** building scalable, cloud-nati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-sharma-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gighanshyammca@gmail.com)
 
-## 💼 Professional Highlights
-
-### **Team Lead** | Raw Engineering Pvt Ltd | *Feb 2021 - Present*
-- Leading squad of 5-7 developers delivering mobile API backends and web applications
-- Optimized entitlement system achieving 90% reduction in API response time
-- Architected OAuth-based authentication system for SaaSKarma platform
-- Built CMS adapter with real-time sports data synchronization using Kafka
-
-### **Senior Software Engineer** | Raw Engineering Pvt Ltd | *Jan 2017 - Jan 2021*
-- Engineered automated migration framework reducing manual effort by 80%
-- Developed advanced search engine with Elasticsearch for 10,000+ SKU catalogs
-- Implemented secure authentication and payment-integrated e-commerce platform
-
-### **Software Engineer** | Raw Engineering Pvt Ltd | *Jan 2016 - Dec 2016*
-- Developed workflow automation system with multi-action execution
-- Built backend services for user tracking and e-commerce functionality
-
-## 🚀 Key Technical Projects
-
-### **OPIN Migration**
-`Node.js` `NestJS` `Redis` `GraphQL` `MongoDB` `Microservices` `Docker` `Bull`
-
-Migrated legacy APIs to modern frameworks with full backward compatibility. Implemented Redis-based job queue system with Bull for high-volume background tasks.
-
-### **NBA Mobile App AI**
-`Node.js` `React.js` `Mixpanel` `Figma API` `CircleCI` `Cursor AI`
-
-Managed end-to-end development lifecycle of AI-powered mobile template generation system with automated Mixpanel integration for real-time analytics.
-
-### **Digital Fan Experience Platform**
-`Contentstack CMS` `Node.js` `GraphQL` `AWS` `Kubernetes` `MongoDB`
-
-Designed real-time data synchronization architecture using Contentstack CMS and GraphQL APIs for sports content delivery.
-
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -105,16 +71,12 @@ Designed real-time data synchronization architecture using Contentstack CMS and 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## 🎓 Education & Certifications
+## 🎓 Certifications
 
-**Master of Computer Applications (MCA)** | TIMSCDR, Mumbai | *2012-2016*
-
-**Bachelor of Science in Information Technology** | Abhinav Degree College, Mumbai | *2010-2012*
-
-### Certifications
 - Node.js Microservices - LinkedIn Learning (2020)
 - Software Engineering - NIIT (2015)
 - Multicloud and CI/CD - Herovired (In Progress)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ghanshyamca&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ghanshyamca&theme=transparent&hide_border=false)<br/>
