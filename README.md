@@ -8,7 +8,7 @@
 
 Engineering leader with **9+ years of experience** building scalable, cloud-native backend systems and leading high-performing engineering squads. Achieved **10x performance improvements** through architectural optimization and modern stack implementation.
 
-🔭 **Currently Leading:** Engineering squad at Raw Engineering, delivering mobile API backends and web applications
+🔭 **Currently Leading:** Engineering squad, delivering mobile API backends and web applications
 
 🌱 **Expertise:** TypeScript, Node.js, AWS (EKS, Lambda, Aurora RDS), Kubernetes, GraphQL, Microservices Architecture
 
@@ -31,7 +31,9 @@ Engineering leader with **9+ years of experience** building scalable, cloud-nati
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -41,6 +43,7 @@ Engineering leader with **9+ years of experience** building scalable, cloud-nati
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=moleculer&logoColor=white)
 
 ### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,6 +53,7 @@ Engineering leader with **9+ years of experience** building scalable, cloud-nati
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### DevOps & CI/CD
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -83,7 +87,7 @@ Engineering leader with **9+ years of experience** building scalable, cloud-nati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyamca&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ghanshyamca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ghanshyamca&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ghanshyamca&limit=5&theme=dark&combine_all_yearly_contributions=true)
