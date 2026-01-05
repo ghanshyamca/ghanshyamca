@@ -89,6 +89,9 @@ Engineering leader with **9+ years of experience** building scalable, cloud-nati
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghanshyamca&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
+## 📈 Contribution Graph
+[![Ghanshyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghanshyamca&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Activity)](https://github.com/ghanshyamca)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ghanshyamca&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
